@@ -1,12 +1,12 @@
-# 👋 Luis Rosales | Software Engineer
+#  Luis Rosales | Software Engineer
 
 > Construyo sistemas escalables y equipos de alto rendimiento. Especializado en arquitecturas backend robustas y optimización de performance que impactan directamente en el negocio.
 
-**🎯 Actualmente:** Abierto a oportunidades como Senior/Lead Engineer en equipos que valoren la excelencia técnica y el impacto medible.
+** Actualmente:** Abierto a oportunidades como Senior/Lead Engineer en equipos que valoren la excelencia técnica y el impacto medible.
 
 ---
 
-## 💼 Lo que aporto
+##  Lo que aporto
 
 - **Entrega de valor predecible:** Transformo requisitos complejos en roadmaps técnicos ejecutables, reduciendo time-to-market sin comprometer calidad
 - **Arquitectura escalable:** Diseño e implemento sistemas que soportan crecimiento 10x sin rediseños costosos
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧰 Stack Técnico
+##  Stack Técnico
 
 **Lenguajes**  
 `Python` `TypeScript` `Go` `Java` `JavaScript`
@@ -41,7 +41,7 @@
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
   
@@ -55,28 +55,25 @@
 
 ---
 
-## 🏆 Certificaciones & Reconocimientos
+##  Certificaciones & Reconocimientos
 
-- 🎓 AWS Certified Solutions Architect - Associate
-- 🎓 MongoDB Certified Developer Associate
+-  AWS Certified Solutions Architect - Associate
+-  MongoDB Certified Developer Associate
 
 ---
 
 ## 📫 Contacto
 
-**Disponibilidad:** 🟢 Abierto a oportunidades Full-time / Contract / Consulting
+**Disponibilidad:**  Abierto a oportunidades Full-time / Contract / Consulting
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_EMAIL@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_PERFIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tu-portfolio.com)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/TU_USUARIO)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devluisrosales@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://https://www.linkedin.com/in/luis-rosales-444a593a2/])
 
 ---
 
 <div align="center">
 
-### 💡 "El mejor código es el que no necesitas escribir. El segundo mejor es el que otros entienden sin esfuerzo."
+###  "El mejor código es el que no necesitas escribir. El segundo mejor es el que otros entienden sin esfuerzo."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=brightgreen&style=flat-square)
 
 </div>
