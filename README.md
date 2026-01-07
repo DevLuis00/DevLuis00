@@ -2,7 +2,7 @@
 
 > Construyo sistemas escalables y equipos de alto rendimiento. Especializado en arquitecturas backend robustas y optimización de performance que impactan directamente en el negocio.
 
-** Actualmente:** Abierto a oportunidades como Senior/Lead Engineer en equipos que valoren la excelencia técnica y el impacto medible.
+ Actualmente: Abierto a oportunidades como Senior/Lead Engineer en equipos que valoren la excelencia técnica y el impacto medible.
 
 ---
 
@@ -62,12 +62,8 @@
 
 ---
 
-## 📫 Contacto
 
 **Disponibilidad:**  Abierto a oportunidades Full-time / Contract / Consulting
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devluisrosales@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://https://www.linkedin.com/in/luis-rosales-444a593a2/])
 
 ---
 
