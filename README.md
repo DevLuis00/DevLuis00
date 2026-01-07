@@ -1,4 +1,4 @@
-# 👋 [Tu Nombre] | Senior Software Engineer
+# 👋 Luis Rosales | Software Engineer
 
 > Construyo sistemas escalables y equipos de alto rendimiento. Especializado en arquitecturas backend robustas y optimización de performance que impactan directamente en el negocio.
 
@@ -41,32 +41,6 @@
 
 ---
 
-## 🚀 Proyectos Destacados
-
-### 📊 [Nombre del Proyecto 1](https://github.com/YOUR_USERNAME/proyecto-1)
-**Stack:** Node.js, PostgreSQL, Redis, React, Docker  
-Sistema de analytics en tiempo real para e-commerce.  
-**Impacto:** Procesamiento de 50K eventos/minuto con latencia <200ms. Reducción del 40% en costos de infraestructura vs solución anterior.  
-🔗 [Demo](https://demo-url.com) | [Docs](https://docs-url.com)
-
----
-
-### 🛠️ [Nombre del Proyecto 2](https://github.com/YOUR_USERNAME/proyecto-2)
-**Stack:** Python, FastAPI, MongoDB, AWS Lambda, Terraform  
-API RESTful para gestión de inventario multi-tenant.  
-**Impacto:** 99.9% uptime, procesa 1M+ requests/día. Arquitectura serverless que escala automáticamente según demanda.  
-🔗 [API Docs](https://api-docs-url.com)
-
----
-
-### 🎨 [Nombre del Proyecto 3](https://github.com/YOUR_USERNAME/proyecto-3)
-**Stack:** React, TypeScript, TailwindCSS, Next.js  
-Dashboard administrativo con renderizado optimizado y UX accesible.  
-**Impacto:** Reduce en 60% el tiempo de operaciones administrativas. Lighthouse score: 95+.  
-🔗 [Live Demo](https://demo-url.com)
-
----
-
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -85,8 +59,6 @@ Dashboard administrativo con renderizado optimizado y UX accesible.
 
 - 🎓 AWS Certified Solutions Architect - Associate
 - 🎓 MongoDB Certified Developer Associate
-- ⭐ [Tu logro destacado: ej. "Contribuidor open source con +500 stars combinadas"]
-- ⭐ [Otro logro: ej. "Speaker en [Conferencia] 2024"]
 
 ---
 
